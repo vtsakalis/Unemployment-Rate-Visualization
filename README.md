@@ -1,1 +1,3 @@
 # Unemployment-Rate-Visualization
+
+This visualization highlights how unemployment rate rockets up in European Union between 2006 and 2015. The visualization can be shown through a bubble chart, a bar chart or a line chart. Please choose accordingly on the top right of the plot. For more emphasis choose to size based on "Rate" instead of "same size", and check any country, from the drop down list of countries. There is also an option to choose different variable on the x-axis, such as Time, and on the y-axis, as well as their scale, i.e. linear or log. Finally, tick the trail option on the lower right if you wish to see the trail of the chosen countries throughout the visualization.
